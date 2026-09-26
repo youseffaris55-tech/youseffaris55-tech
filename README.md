@@ -1,143 +1,103 @@
-# Machine Learning Systems, Alignment, and Evaluation
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_2.png)
 
-I am a **research-oriented machine learning systems engineer** working on **foundation model infrastructure, alignment, and evaluation**. I build efficient and reliable systems for large language models while studying the algorithms and data choices that make them more useful, controllable, and cost-effective in real applications.
+<div align="center" width="50">
 
-* 🧐   My central research interest is **model-system co-design**: understanding how model architecture, inference algorithms, data curation, hardware utilization, scheduling, and distributed runtimes interact.
-* 💼   I work on Model-as-a-Service platforms and high-performance LLM inference, developing production serving infrastructure with **vLLM** and **SGLang**.
-* 🎓   My recent research includes distributed disaggregated inference, preference optimization, instruction-tuning data selection, multimodal evaluation.
-* 🌱   I investigate alignment and evaluation methods that connect measurable model behavior with real-world usefulness, controllability, reliability, and serving cost.
-* 📚   My systems work spans model runtime integration, scheduling and continuous batching, KV-cache and memory management, distributed execution, observability, and reliability.
-* ⛵   I am interested in collaborating on open research and infrastructure that make frontier AI systems faster to experiment with, more rigorous to evaluate, and dependable at scale.
-* ✍🏻   I share technical writing on machine learning systems, infrastructure, and software engineering through my [personal blog](https://halfrost.com/).
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 <details>
-  <summary>Some other achievements about me~e~e</summary>
-  <br>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-* 💙💛   Be proud of the University of California, Berkeley. 🐻 Proud California Golden Bear. Fiat Lux ✨ Go Bears.
-* 🌲   Be proud of Stanford University. ❤️ Proud Stanford Cardinal. Die Luft der Freiheit weht.
-* 🧣   Be proud of Carnegie Mellon University. 🐾 Proud Carnegie Mellon Tartan. My heart is in the work.
-* 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF / Sigma Xi.
-* 🍎   Apple Developer.👨🏻‍💻 & [Apple Teacher](https://img.halfrost.com/certificate/AppleTeacher.pdf).🤪
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 
-<p align="center">
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/berkeley.png" height="100" width="100"/>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/stanford.png" height="100" width="100" style="max-width: 100%;margin-right: 5px;"/></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/CMU.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/sigma-xi.png" height="100"/>
-</p>
+</details>
 
-* 📊   Open-source activity and repository highlights:
+![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+</div>
 
-<p align="center">
-<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=halfrost&layout=compact&theme=default&langs_count=8" alt="halfrost's top languages" />
-<img align="center" src="https://github-stats-extended.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=default" alt="halfrost's GitHub stats" />
-<img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=halfrost&title=Stars,Commits,Followers,Issues,PullRequest,Repositories,Reviews,AllSuperRank,MultiLanguage,LongTimeUser,AncientUser,OGUser,Joined2020,Organizations,Experience&column=7&theme=flat" alt="halfrost's GitHub trophy" />
-<img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/timeline-drop/output/dropped-timeline-halfrost.gif" alt="Repository activity timeline" />
-</p>
+<hr></hr>
+
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
+![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+```
+
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+
+<div align="center" >
+<a  href="https://github.com/SP-XD">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
 </details>
   
-<hr>
-<p align="center">
-  <i>Explore my repositories, research interests, and technical writing, or reach out to discuss machine learning systems and frontier AI.</i>
+<hr></hr>
 
-<p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-</p>
+**Code Cycle**<br>
 
-<p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
-</p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-</p>
 
----
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
-  <br><br>
-  <samp>
-  </samp>
-</p>
-
-<p float="left">
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
-  </a>
-  <a href="https://helm.sh/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
-  </a>
-  <a href="https://grpc.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
-  </a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
- </p>
-  
-### CSPs
-  
- <p float="left">
-  <a href="https://bit.ly/2W7a91W" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
- </p>
-  
-### Monitoring
-  
- <p float="left">
-  <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
-  </a>
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
-  </a>
-</p>
-
-### Databases
-  
- <p float="left">
-  <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
-  </a>
-  <a href="https://www.timescale.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
-  </a>
-</p>
-
--->
-
-<!--
-**halfrost/halfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
